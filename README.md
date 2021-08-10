@@ -1,1 +1,1 @@
-Wellcome, This a project for Software engineers and future African leaders developed by [ALX](https://www.alxafrica.com/) .
+Wellcome, This a project for Software engineers and future African leaders developed by [ALX](https://www.alxafrica.com/). If you are one of the millions of young Africans whose education didn't provide the tech skills relevant in today's digital economy, *you are not alone*. 
