@@ -2,11 +2,14 @@ git config --global user.name " "
 git config --global user.email 
 git init
 git remote add url
-git remote -v
 git add .
 git status
 git commit -m " "
 git push origin main
 git branch
 git checkout
+<<<<<<< HEAD
 git pull
+=======
+git pull
+>>>>>>> 85a223d0008e2d31841b0506de6ed5430d1de5dd
